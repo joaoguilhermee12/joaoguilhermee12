@@ -1,4 +1,4 @@
-##  João Guilherme Sousa Figueiredo | 🖥️ 
+##  João Guilherme Sousa  | 🖥️ 
 
 <div> 
 <a href = "mailto:joaoguilhermesf@sempreceub.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
