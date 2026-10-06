@@ -20,4 +20,4 @@
    ##  🛠️ Stacks
 
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,java,css,git,c,html,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,java,php,css,git,c,html,postgres,mysql)](https://skillicons.dev)
